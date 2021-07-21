@@ -1,0 +1,1 @@
+[![Build Status](https://travis-ci.com/Czani89/bootcamp_terminal_tests.svg?branch=main)](https://travis-ci.com/Czani89/bootcamp_terminal_tests)
